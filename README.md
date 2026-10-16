@@ -2,10 +2,10 @@
 A UX redesign of KFCKU, the food ordering app of KFC Indonesia. Through user interviews, the team found that people struggle to find promos, vouchers, and rewards, and that the home screen and checkout feel crowded. The redesign makes navigation clearer, promos more visible, menu customization easier, and checkout simpler.
 
 Background
+
 KFCKU was launched in 2017 by PT Fast Food Indonesia Tbk so customers can order KFC menus online without visiting a restaurant. The app already uses several UI patterns, including a Z-pattern layout, cards, sticky navigation, and search autocomplete. Even so, users still run into problems with navigation and with how features are arranged.
 
-Research
-Method: qualitative user interviews with 5 respondents, chosen to understand real experiences, difficulties, and needs when using KFCKU.
+Research Method: qualitative user interviews with 5 respondents, chosen to understand real experiences, difficulties, and needs when using KFCKU.
 
 Respondent criteria
 - KFCKU users aged 17 to 35
